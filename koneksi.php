@@ -1,6 +1,6 @@
 <?php
     $servername = "localhost";
-    $database = "db_bukuku";
+    $database = "dbvynthrift";
     $username = "root";
     $password = "";
 
